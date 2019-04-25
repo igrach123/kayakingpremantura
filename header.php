@@ -46,58 +46,36 @@
     </nav>
 
     <!-- bootstrap 3 touch slider with animations -->
-    <div id="bootstrap-touch-slider" class="carousel bs-slider fade  control-round indicators-line" data-ride="carousel"
-        data-pause="hover" data-interval="false">
+    <div id="bootstrap-touch-slider" class="carousel bs-slider fade  control-round indicators-line hidden-xs"
+        data-ride="carousel" data-pause="hover" data-interval="false">
 
         <!-- Indicators -->
         <ol class="carousel-indicators">
             <li data-target="#bootstrap-touch-slider" data-slide-to="0" class="active"></li>
             <li data-target="#bootstrap-touch-slider" data-slide-to="1"></li>
-            <li data-target="#bootstrap-touch-slider" data-slide-to="2"></li>
         </ol>
 
         <!-- Wrapper For Slides -->
         <div class="carousel-inner " role="listbox">
 
             <!-- Third Slide -->
-            <div class="item active">
 
-                <!-- Slide Background -->
-                <img src="https://images.pexels.com/photos/48726/pexels-photo-48726.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
-                    alt="Bootstrap Touch Slider" class="slide-image" />
-                <div class="bs-slider-overlay"></div>
-
-                <div class="container">
-                    <div class="row">
-                        <!-- Slide Text Layer -->
-                        <div class="slide-text slide_style_left">
-                            <h1 data-animation="animated zoomInRight">Bootstrap Carousel</h1>
-                            <p data-animation="animated fadeInLeft">Bootstrap carousel now touch enable slide.</p>
-                            <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-default"
-                                data-animation="animated fadeInLeft">select one</a>
-                            <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-primary"
-                                data-animation="animated fadeInRight">select two</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <!-- End of Slide -->
 
             <!-- Second Slide -->
-            <div class="item">
+            <div class="item active">
 
                 <!-- Slide Background -->
-                <img src="https://images.pexels.com/photos/207990/pexels-photo-207990.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
-                    alt="Bootstrap Touch Slider" class="slide-image" />
-                <div class="bs-slider-overlay"></div>
+                <img src="img/hero-1.jpg" alt="Bootstrap Touch Slider" class="slide-image" />
+                <div class="bs-slider-overlay "></div>
                 <!-- Slide Text Layer -->
                 <div class="slide-text slide_style_center">
-                    <h1 data-animation="animated flipInX">Bootstrap touch slider</h1>
-                    <p data-animation="animated lightSpeedIn">Make Bootstrap Better together.</p>
+                    <h1 data-animation="animated flipInX"> <?php echo "$the_sitetitle"; ?> </h1>
+                    <p data-animation="animated lightSpeedIn">Nezaboravn izlet.</p>
                     <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-default"
-                        data-animation="animated fadeInUp">select one</a>
+                        data-animation="animated fadeInUp">VIŠE</a>
                     <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-primary"
-                        data-animation="animated fadeInDown">select two</a>
+                        data-animation="animated fadeInDown">KONTAKT</a>
                 </div>
             </div>
             <!-- End of Slide -->
@@ -106,17 +84,16 @@
             <div class="item">
 
                 <!-- Slide Background -->
-                <img src="https://images.pexels.com/photos/144345/pexels-photo-144345.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
-                    alt="Bootstrap Touch Slider" class="slide-image" />
-                <div class="bs-slider-overlay"></div>
+                <img src="img/hero-2.jpg" alt="Bootstrap Touch Slider" class="slide-image" />
+                <div class="bs-slider-overlay "></div>
                 <!-- Slide Text Layer -->
-                <div class="slide-text slide_style_right">
+                <div class="slide-text slide_style_center">
                     <h1 data-animation="animated zoomInLeft"><?php echo "$the_sitetitle"; ?></h1>
-                    <p data-animation="animated fadeInRight">Lots of css3 Animations to make slide beautiful .</p>
+                    <p data-animation="animated fadeInRight">Upoznajte Istru</p>
                     <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-default"
-                        data-animation="animated fadeInLeft">select one</a>
+                        data-animation="animated fadeInLeft">VIŠE</a>
                     <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-primary"
-                        data-animation="animated fadeInRight">select two</a>
+                        data-animation="animated fadeInRight">KONTAKT</a>
                 </div>
             </div>
             <!-- End of Slide -->

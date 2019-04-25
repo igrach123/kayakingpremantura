@@ -1,8 +1,13 @@
 .bs-slider {
   overflow: hidden;
   max-height: 700px;
+  min-height: 350px;
   position: relative;
   background: #000000;
+
+  img {
+    object-fit: cover;
+  }
 }
 .bs-slider:hover {
   cursor: -moz-grab;
@@ -105,7 +110,7 @@
 
 /*---------- INDICATORS CONTROL ----------*/
 .indicators-line > .carousel-indicators {
-  right: 45%;
+  right: 48.5%;
   bottom: 3%;
   left: auto;
   width: 90%;
