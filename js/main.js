@@ -4,6 +4,7 @@
 // @koala-prepend "jquery.matchHeight.js"
 // @koala-prepend "smooth-scroll.min.js"
 // @koala-prepend "echo.min.js"
+// @koala-prepend "bs-touchslider.js"
 
 //image preloader
 echo.init({

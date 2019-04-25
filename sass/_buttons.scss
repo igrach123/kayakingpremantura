@@ -1,7 +1,6 @@
-
 /* -- Main style ------------------------------------ */
 .btn {
-  font-family: "Roboto", 'Helvetica Neue, Helvetica, Arial', sans-serif;
+  font-family: "Roboto", "Helvetica Neue, Helvetica, Arial", sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 1.1;
@@ -37,20 +36,24 @@
 }
 /* -- Buttons types -------------------------------- */
 .btn-raised {
-  -webkit-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);
-  -moz-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);
+  -webkit-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12),
+    0 1px 2px 0 rgba(0, 0, 0, 0.24);
+  -moz-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12),
+    0 1px 2px 0 rgba(0, 0, 0, 0.24);
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);
 }
 .btn-raised:active,
 .btn-raised.active,
 .btn-raised:active:focus,
 .btn-raised.active:focus {
-  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16),
+    0 3px 6px rgba(0, 0, 0, 0.23);
   -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
 .btn-raised:focus {
-  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16),
+    0 3px 6px rgba(0, 0, 0, 0.23);
   -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
@@ -466,11 +469,11 @@
   opacity: 1;
 }
 .ink.animate {
-  -webkit-animation: ripple .5s linear;
-  -moz-animation: ripple .5s linear;
-  -ms-animation: ripple .5s linear;
-  -o-animation: ripple .5s linear;
-  animation: ripple .5s linear;
+  -webkit-animation: ripple 0.5s linear;
+  -moz-animation: ripple 0.5s linear;
+  -ms-animation: ripple 0.5s linear;
+  -o-animation: ripple 0.5s linear;
+  animation: ripple 0.5s linear;
 }
 @keyframes ripple {
   100% {
