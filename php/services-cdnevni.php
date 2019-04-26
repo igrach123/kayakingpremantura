@@ -10,13 +10,14 @@
             <div class="modal-body">
                 <h5 class="services-sm-title">OPIS IZLETA</h5>
 
-                <p class="text-muted"><b>Cjelodnevni izlet biciklom</b> počine u 9 h Izlet biciklom dogovara se barem
-                    jedan dan unaprijed. Izlet počinje i završava u Premanturi blizu kućnog broja selo 63 (nasuprot Surf
-                    bara). Tijekom cjelodnevnog izleta ćemo vidjeti i proći biciklističku stazu na donjem Kamenjaku,
-                    zaustaviti se i pogledati dino park i vidjeti otiske dinosaurusa. Okupatise na osamljenim plažama.
-                    Proći singl trailove na Gornjem Kamenjaku. Ručak u Safari baru. O ritmu odvijanja izleta odlučuje
-                    vodič, na način da se odvijanje izleta provodi na siguran način i onim tempom koji mogu pratiti svi
-                    sudionici izleta. Prijeći ćemo oko 30 km
+                <p class="text-muted"><b>Cjelodnevni izlet kajakom</b> počinje u 09h Izlet kajakom se dogovara najmanje
+                    jedan dan unaprijed. Izlet kreće iz kampa Stupice u Premanturi i na istom mjestu i završava. Izlet
+                    uključuje i snorkeling. Isti će se odvijati na predivnim plažama osamljenih otoka ili uvalama parka
+                    prirode Kamenjak. Snorkeling će trajati po želji samih sudionika i, naravno, ovisno o temperaturi
+                    mora i godišnjem dobu. Posjetiti ćete barem dva nenaseljena otoka,špilju na Velikoj Kolumbarici,otok
+                    Fenoligu na kojem se vide otisci dinosaurusa te upoznati floru i faunu podmorskog svijeta
+                    Medulinskog arhipelaga. Ručak u Safari baru. O ritmu odvijanja izleta odlučuje vodič, na način da se
+                    odvijanje izleta provodi na siguran način i onim tempom koji mogu pratiti svi sudionici izleta.
                     <br>
                     <br>
                     <b>TRAJANJE:</b> oko 8h.
@@ -31,13 +32,15 @@
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Vodiča</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Biciklu</li>
+                        Snorkeling opremu</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Voće i vodu</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Ručak</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Sigurnosnu opremu</li>
+                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
+                        Kajak</li>
                 </ul>
 
 
@@ -54,9 +57,9 @@
                 <hr>
 
                 <div class="pmd-card-actions col-xs-6">
-                    <a class="facebook-modal-link btn-success btn"
+                    POSJETITE NAS: <a class="facebook-modal-link btn-success btn"
                         href="https://www.facebook.com/Kayaking-Premantura-241379939600438/" target="_blank"><span
-                            class="fa fa-facebook">POSJETITE NAS</span></a>
+                            class="fa fa-facebook"></span></a>
                 </div>
 
                 <div class="modal-footer row">

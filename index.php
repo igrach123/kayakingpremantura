@@ -47,7 +47,9 @@
     <link rel="stylesheet" href="css/owl.theme.min.css">
     <link rel="stylesheet" href="css/owl.transitions.min.css">
     <link rel="stylesheet" href="form.css">
-
+    <script type='text/javascript'
+        src='//platform-api.sharethis.com/js/sharethis.js#property=5cc3509136d0970012b8859c&product=sop' async='async'>
+    </script>
     <!--main stylesheet-->
     <link rel="stylesheet" href="css/style.css">
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
@@ -72,8 +74,8 @@
     <?php include "php/custom-tour.php"; ?>
     <!-- end of services -->
     <?php include "php/location.php" ?>
-    <?php include "php/bike-cjenik.php"?>
-    <?php include "php/cjenik-bikes.php"?>
+    <?php include "php/gallery.php"?>
+    <?php include "php/cjenik-modal.php"?>
     <?php include "php/partner-slide.php" ?>
     <?php include "footer.php"; ?>
 

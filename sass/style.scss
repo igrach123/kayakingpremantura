@@ -150,6 +150,14 @@ body {
   }
 }
 .facebook-modal-link {
+  color: $bg-white !important;
+  background-color: $facebook-blue !important;
+  margin-left: 0px !important;
+  margin-top: 10px;
+}
+.facebook-modal-link:hover {
+  color: $facebook-blue !important;
+  background-color: $bg-white !important;
   margin-left: 0px !important;
   margin-top: 10px;
 }
@@ -823,7 +831,14 @@ header {
     #ffff1c,
     #00c3ff
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+  .kayak-intro {
+    padding-bottom: 20px;
+    color: $second;
+    margin: 0 auto;
+    @include md {
+      width: 60%;
+    }
+  }
   background-attachment: fixed;
   background-size: cover;
   @include xxs {
@@ -847,6 +862,7 @@ header {
   h2 {
     color: $bg-grey-lighter;
     margin-top: 0;
+    padding-bottom: 20px;
   }
   h5 {
     color: red;
@@ -1172,14 +1188,6 @@ header {
     }
   }
 }
-#services-sup {
-  h4 {
-    background-image: url(../img/izleti/enduro.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-  }
-}
 
 #custom-tour {
   h4 {
@@ -1193,8 +1201,17 @@ header {
 #location {
   background-color: $bg-grey-lighter;
   padding-bottom: 40px;
+  .l-link a {
+    margin-top: 20px;
+    text-decoration: none;
+    color: $bg-grey-lighter;
+  }
+  .l-link a:hover {
+    text-decoration: underline;
+    color: $main-orange;
+  }
   .img-premantura {
-    background-image: url(../img/centar-bike.jpg);
+    background-image: url(../img/centri/premanutra-small.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -1500,14 +1517,14 @@ header {
 @include md {
   .imgwrapper {
     border-radius: 3px;
-    width: 31%;
+    width: 15.5%;
     float: left;
     position: relative;
     overflow: hidden;
     transition: 0.4s ease-in-out;
     -webkit-transition: 0.4s ease-in-out;
     z-index: 400;
-    margin: 1%;
+    margin: 0.5%;
   }
 }
 .imgwrapper img {
