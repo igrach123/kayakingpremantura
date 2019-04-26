@@ -39,26 +39,6 @@
   background-color: grey;
   background-size: cover;
 }
-.t-1:hover {
-  transform: scale(1.05);
-  transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out,
-    height 0.3s ease-out, transform 5s ease-out 0.3s;
-}
-.t-2:hover {
-  transform: scale(1.05);
-  transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out,
-    height 0.3s ease-out, transform 5s ease-out 0.3s;
-}
-.t-3:hover {
-  transform: scale(1.05);
-  transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out,
-    height 0.3s ease-out, transform 5s ease-out 0.3s;
-}
-.t-4:hover {
-  transform: scale(1.05);
-  transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out,
-    height 0.3s ease-out, transform 5s ease-out 0.3s;
-}
 .t-2 {
   background-image: url("../img/izleti/cjelodnevni-m.jpg");
   background-color: grey;
@@ -73,10 +53,19 @@
   background-position: center center;
   background-repeat: no-repeat;
 }
-.t-4 {
-  background-image: url("../img/izleti/enduro-m.jpg");
-  background-color: grey;
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
+
+.t-1:hover {
+  transform: scale(1.05);
+  transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out,
+    height 0.3s ease-out, transform 5s ease-out 0.3s;
+}
+.t-2:hover {
+  transform: scale(1.05);
+  transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out,
+    height 0.3s ease-out, transform 5s ease-out 0.3s;
+}
+.t-3:hover {
+  transform: scale(1.05);
+  transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out,
+    height 0.3s ease-out, transform 5s ease-out 0.3s;
 }

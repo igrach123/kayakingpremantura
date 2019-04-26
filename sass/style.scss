@@ -302,7 +302,7 @@ h2 {
     margin-bottom: 0px;
     font-weight: 100;
     padding-top: 170px;
-    padding-bottom: 100px;
+
     text-align: center;
     color: white;
   }
@@ -314,7 +314,6 @@ h2 {
 @include sm {
   h1 {
     font-size: 2.5em;
-    padding-bottom: 100px;
   }
   h2 {
     font-size: 2em;
@@ -813,22 +812,18 @@ header {
 //****************SERVICES SECTION*******************//
 #services {
   padding-bottom: 80px;
-  background-color: #03a9f5;
-  background-image: linear-gradient(
-    to right top,
-    #845ec2,
-    #756ed1,
-    #647dde,
-    #4f8be8,
-    #3798ef,
-    #00a8ef,
-    #00b6e9,
-    #00c2df,
-    #1bcebf,
-    #73d492,
-    #bad26a,
-    #ffc75f
-  );
+  background: #00c3ff; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to left,
+    #ffff1c,
+    #00c3ff
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to left,
+    #ffff1c,
+    #00c3ff
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   background-attachment: fixed;
   background-size: cover;
   @include xxs {
@@ -851,6 +846,7 @@ header {
   }
   h2 {
     color: $bg-grey-lighter;
+    margin-top: 0;
   }
   h5 {
     color: red;
@@ -867,7 +863,7 @@ header {
   .col-5px {
     padding: 5px 5px 5px 5px;
   }
-  @import "imghover";
+  @import "services-modals";
 
   .pmd-card {
     border-radius: 0px 0px 5px 5px;
@@ -925,11 +921,11 @@ header {
   h4 {
     font-family: "Permanent Marker", cursive;
     text-align: center;
-    font-size: 45px;
+    font-size: 2.5em;
     text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1),
       0px 18px 23px rgba(0, 0, 0, 0.1);
     background-color: rgba(137, 177, 248, 0.2);
-    color: $torkis-blue;
+    color: $main-blue;
     vertical-align: middle; /*middle centred*/
     padding-top: 125px;
     padding-bottom: 125px;

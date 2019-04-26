@@ -68,8 +68,7 @@
     <!-- services modals -->
     <?php include "php/services-pdnevni.php"; ?>
     <?php include "php/services-cdnevni.php"; ?>
-    <?php include "php/services-urbana.php"; ?>
-    <?php include "php/services-enduro.php"; ?>
+    <?php include "php/services-spilje.php"; ?>
     <?php include "php/custom-tour.php"; ?>
     <!-- end of services -->
     <?php include "php/location.php" ?>

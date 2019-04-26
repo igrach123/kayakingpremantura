@@ -1,11 +1,11 @@
-<!-- modal URBANA GRADSKA TURA - PULA -->
+<!-- modal Izlet kajakom u špilje -->
 <div id="services-bike" class="modal fade" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title">URBANA GRADSKA TURA - PULA</h4>
+                <h4 class="modal-title">Izlet kajakom u špilje</h4>
             </div>
             <div class="modal-body">
                 <h5 class="services-sm-title">OPIS IZLETA</h5>
@@ -42,7 +42,7 @@
                     </table>
                 </div>
                 <hr>
-                <p class="text-muted"><b>Urbana gradska tura - Pula uključuje:</b></p>
+                <p class="text-muted"><b>Izlet kajakom u špilje uključuje:</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Vodiča</li>
@@ -59,12 +59,9 @@
                 <div class="pmd-card-actions col-xs-6">
 
                     <a class="facebook-modal-link btn-success btn"
-                        href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/" target="_blank"><span
+                        href="https://www.facebook.com/Kayaking-Premantura-241379939600438/" target="_blank"><span
                             class="fa fa-facebook">POSJETITE NAS</span></a>
-                    <iframe class="facebook-modal-iframe"
-                        src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FRENT-A-BIKE-Premantura-917457535047303%2F&width=140&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477"
-                        width="140" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
-                        allowTransparency="true"></iframe>
+
                 </div>
                 <div class="modal-footer row">
                     <button type="button" class="btn btn-primary" data-dismiss="modal">Zatvori</button>
