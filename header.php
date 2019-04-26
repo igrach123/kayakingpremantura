@@ -44,6 +44,13 @@
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-->
     </nav>
+    <!-- h1 xs -->
+    <h1 class="visible-xs"><?php echo "$the_sitetitle"; ?> <br>
+        <a href="#services" data-scroll data-options='{ "easing": "easeInOutQuad" }' class="btn scroll"
+            data-animation="animated fadeInUp"> <i class="fa fa-angle-double-down fa-3x" aria-hidden="true"></i></a>
+    </h1>
+
+    <!-- h1 xs -->
 
     <!-- bootstrap 3 touch slider with animations -->
     <div id="bootstrap-touch-slider" class="carousel bs-slider fade  control-round indicators-line hidden-xs"
@@ -72,10 +79,12 @@
                 <div class="slide-text slide_style_center">
                     <h1 data-animation="animated flipInX"> <?php echo "$the_sitetitle"; ?> </h1>
                     <p data-animation="animated lightSpeedIn">Nezaboravn izlet.</p>
-                    <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-default"
-                        data-animation="animated fadeInUp">VIŠE</a>
-                    <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-primary"
-                        data-animation="animated fadeInDown">KONTAKT</a>
+                    <a href="#services" data-scroll data-options='{ "easing": "easeInOutQuad" }'
+                        class="btn btn-primary scroll" data-animation="animated fadeInUp">VIŠE <i
+                            class="fa fa-angle-right" aria-hidden="true"></i></a>
+                    <a href="#footer" data-scroll data-options='{ "easing": "easeInOutQuad" }'
+                        class="btn btn-default scroll" data-animation="animated fadeInDown">KONTAKT <i
+                            class="fa fa-angle-right" aria-hidden="true"></i></a>
                 </div>
             </div>
             <!-- End of Slide -->
@@ -90,10 +99,12 @@
                 <div class="slide-text slide_style_center">
                     <h1 data-animation="animated zoomInLeft"><?php echo "$the_sitetitle"; ?></h1>
                     <p data-animation="animated fadeInRight">Upoznajte Istru</p>
-                    <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-default"
-                        data-animation="animated fadeInLeft">VIŠE</a>
-                    <a href="http://bootstrapthemes.co/" target="_blank" class="btn btn-primary"
-                        data-animation="animated fadeInRight">KONTAKT</a>
+                    <a href="#services" data-scroll data-options='{ "easing": "easeInOutQuad" }'
+                        class="btn btn-primary scroll" data-animation="animated fadeInLeft">VIŠE <i
+                            class="fa fa-angle-right" aria-hidden="true"></i></a>
+                    <a href="#footer" data-scroll data-options='{ "easing": "easeInOutQuad" }'
+                        class="btn btn-default scroll" data-animation="animated fadeInRight">KONTAKT <i
+                            class="fa fa-angle-right" aria-hidden="true"></i></a>
                 </div>
             </div>
             <!-- End of Slide -->
