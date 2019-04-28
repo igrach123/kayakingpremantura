@@ -15,128 +15,72 @@
                             <tr>
                                 <th scope="col">POLUDNEVNI IZLET</th>
                                 <th scope="col">CJELODNEVNI IZLET</th>
-                                <th scope="col">URBANA GRADSKA TURA - PULA</th>
-                                <th scope="col">ENDURO TOURS KAMENJAK</th>
+                                <th scope="col">IZLET U ŠPILJE</th>
+
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
                                 <td>300.00 kn</td>
                                 <td>450,00 kn</td>
-                                <td>350,00 kn / 4+ PERSONS</td>
-                                <td>350,00 kn / 4+ PERSONS</td>
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>400,00 kn / 3 PERSONS</td>
-                                <td>400,00 kn / 3 PERSONS</td>
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>500,00 kn / 2 PERSONS</td>
-                                <td>500,00 kn / 2 PERSONS</td>
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>1000,00 kn / 1 PERSON</td>
-                                <td>1000,00 kn / 1 PERSON</td>
-                            </tr>
+                                <td>350,00 kn</td>
 
+                            </tr>
                         </tbody>
                     </table>
                 </div>
-                <h4 class="text-center">NAJAM BICIKLE</h4>
+                <h4 class="text-center">NAJAM KAJAKA</h4>
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
                         <thead>
                             <tr>
-                                <th scope="col">BICIKLA 1</th>
-                                <th scope="col">BICIKLA 2</th>
-                                <th scope="col">BICIKLA 3</th>
+                                <th scope="col">KAJAK 1</th>
+                                <th scope="col">1 OSOBA </th>
+                                <th scope="col">KAJAK 2</th>
+                                <th scope="col">2 OSOBE </th>
+                                <th scope="col">KAJAK 3</th>
+                                <th scope="col">3 OSOBE </th>
 
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>1H - 20,00kn</td>
-                                <td>1H - 30,00kn</td>
-                                <td></td>
-
+                                <td>1H</td>
+                                <td>40,00kn</td>
+                                <td>1H</td>
+                                <td>60,00kn</td>
+                                <td>1H</td>
+                                <td>100,00kn</td>
                             </tr>
                             <tr>
-                                <td>4H - 50,00kn</td>
-                                <td>4H - 70,00kn</td>
-                                <td>4H - 200,00kn</td>
-
+                                <td>2H</td>
+                                <td>70,00kn</td>
+                                <td>2H</td>
+                                <td>100,00kn</td>
+                                <td>2H</td>
+                                <td>150,00kn</td>
                             </tr>
                             <tr>
-                                <td>1 Day - 80,00kn</td>
-                                <td>1 Day - 100,00kn</td>
-                                <td>1 Day - 300,00kn</td>
+                                <td>4H</td>
+                                <td>100,00kn</td>
+                                <td>4H</td>
+                                <td>150,00kn</td>
+                                <td>4H</td>
+                                <td>200,00kn</td>
                             </tr>
                             <tr>
-                                <td>2 Days - 150,00kn</td>
-                                <td>2 Days - 190,00kn</td>
-                                <td>2 Days - 570,00kn</td>
-                            </tr>
-                            <tr>
-                                <td>3 Days - 210,00kn</td>
-                                <td>3 Days - 270,00kn</td>
-                                <td>3 Days - 830,00kn</td>
-                            </tr>
-                            <tr>
-                                <td>4 Days - 260,00kn</td>
-                                <td>4 Days - 320,00kn</td>
-                                <td>4 Days - 1060,00kn</td>
-                            </tr>
-                            <tr>
-                                <td>5 Days - 300,00kn</td>
-                                <td>5 Days - 400,00kn</td>
-                                <td>5 Days - 1280,00kn</td>
-                            </tr>
-                            <tr>
-                                <td>6 Days - 350,00kn</td>
-                                <td>6 Days - 450,00kn</td>
-                                <td>6 Days - 1500,00kn</td>
-                            </tr>
-                            <tr>
-                                <td>7 Days - 400,00kn</td>
-                                <td>7 Days - 500,00kn</td>
-                                <td>7 Days - 1650,00kn</td>
+                                <td>8H</td>
+                                <td>150,00kn</td>
+                                <td>8H</td>
+                                <td>200,00kn</td>
+                                <td>8H</td>
+                                <td>300,00kn</td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
-
-                <div class="table-responsive">
-                    <table class="table table-hover table-striped">
-                        <thead>
-                            <tr>
-                                <th scope="col" class="text-uppercase">BACK PACK</th>
-                                <th scope="col" class="text-uppercase">BACK PACK WITH TOOLS,PUMP & FIRST AID</th>
-                                <th scope="col" class="text-uppercase">SERVICE 1H</th>
-
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>20.00 kn</td>
-                                <td>50,00 kn</td>
-                                <td>125,00 kn</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-                <hr>
-                <div class="text-muted text-center">
-                    BIKES ARE RENTED AT YOUR OWN RESPONSIBILITY.
-                    ANY COMPLAINTS MAY BE MADE WITHIN THE FIRST 15 MINUTES OF RENTAL.
-                    AFTERWARDS THEY WILL NOT BE ACCEPTED.
-                    ANY DAMAGE TO THE BIKE WILL BE CHARGED ADDITIONALLY.
-                </div>
+                <p class="text-muted"><b>CIJENA</b> ZA GRUPE 10-15 OSOBA <span class="badge badge-info">-10%</span> /
+                    <b>CIJENA</b> ZA GRUPE PREKO 15 OSOBA <span class="badge badge-info">-20%</span> </p>
 
                 <div class="pmd-card-actions col-xs-6">
                     POSJETITE NAS: <a class="facebook-modal-link btn-success btn"

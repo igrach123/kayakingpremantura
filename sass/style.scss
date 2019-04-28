@@ -354,6 +354,10 @@ header {
         0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1);
     }
   }
+  @include sm {
+    background: #000;
+  }
+
   //Naviagtion//
   nav {
     height: 60px;
@@ -839,7 +843,7 @@ header {
 
   .kayak-intro {
     padding-bottom: 20px;
-    color: $second;
+    color: $bg-grey-lighter;
     margin: 0 auto;
     @include md {
       width: 60%;
