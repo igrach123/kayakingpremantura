@@ -62,53 +62,31 @@
         <![endif]-->
     <!--    blueip galelry -->
     <!-- The Gallery as lightbox dialog, should be a child element of the document body -->
-    <div id="blueimp-gallery" class="blueimp-gallery">
-        <div class="slides"></div>
-        <h3 class="title"></h3>
-        <a class="prev">‹</a>
-        <a class="next">›</a>
-        <a class="close">×</a>
-        <a class="play-pause"></a>
-        <ol class="indicator"></ol>
-    </div>
+    <?php include "../php/blueimp-gallery.php"; ?>
     <?php include "../php/variables.php"; ?>
     <?php include "header.php"; ?>
     <div class="clearfix"></div>
-
-
-
 
     <!--  CONTENT WRAPPER-->
     <div class="container-fluid" id="content-wrapper">
         <!-- services -->
         <?php include "php/services.php"; ?>
         <!-- services modals -->
+        <!-- services modals -->
         <?php include "php/services-pdnevni.php"; ?>
         <?php include "php/services-cdnevni.php"; ?>
-        <?php include "php/services-urbana.php"; ?>
-        <?php include "php/services-enduro.php"; ?>
+        <?php include "php/services-spilje.php"; ?>
         <?php include "php/custom-tour.php"; ?>
-
-        <!-- end of services     -->
-
-
-        <!-- location -->
+        <!-- end of services -->
         <?php include "php/location.php" ?>
-        <?php include "php/bike-cjenik.php"?>
-        <?php include "php/cjenik-bikes.php"?>
-        <?php include "php/location-permantura.php" ?>
-        <?php include "php/location-medulin.php" ?>
-        <?php include "php/location-bike.php" ?>
+        <?php include "php/gallery.php"?>
+        <?php include "php/cjenik-modal.php"?>
         <?php include "php/partner-slide.php" ?>
 
     </div> <!-- end of content wrapper -->
 
 
     <?php include "footer.php"; ?>
-
-
-
-
 
     <!--JavaScript, jquerry and plugins-->
     <script src="../js/vendor/jquery.min.js"></script>

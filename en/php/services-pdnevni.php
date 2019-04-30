@@ -10,14 +10,15 @@
             </div>
             <div class="modal-body">
                 <h5 class="services-sm-title">About the Trip</h5>
-                <p class="text-muted"> <b>The half-day excursion </b> by mountain bike starts at 09:00 h and at 13:00 h.
-                    Excursions by bike must be booked at least one day in advance. The excursion begins and finishes in
-                    Premantura at our centre near the house number 63 (opposite the Surf Bar). The half-day excursion
-                    includes biking along the bicycle trail on the GornjiKamenjak, a stop and ride along the dinosaur
-                    path withits dinosaur footprints and swimming at secluded beaches. The pace of the excursion is
-                    decided by the guide with the aim to make this a safe and practicable experience for everyone
-                    present. The distance covered is of about 15 km.
-                    <br>
+                <p class="text-muted"> <b>The half-day kayak excursion</b> has two departure times: at 09:00 h and at
+                    13:00 h.
+                    Excursions by kayak must be booked at least one day in advance. The excursion begins and ends at the
+                    Arena Stupice Campsite in Premantura. It includes snorkeling in the waters surrounding the beautiful
+                    and secluded beaches of the islands and bays of the Nature Park Kamenjak. The time spent snorkeling
+                    depends on the participants’ wishes and, of course, on the sea temperature and the season.
+                    Participants visit at least two uninhabited islands and learn about the Medulin archipelago’s marine
+                    flora and fauna. The pace of the excursion is decided by the guide with the aim to make this a safe
+                    and practicable experience for everyone present.
                     <br>
                     <b>DURATION:</b> about 4h.
                     <br>
@@ -30,11 +31,13 @@
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Guide</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Bycicle</li>
-                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Fruit and water</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
+                        snorkeling equipment</li>
+                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Safety equipment</li>
+                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
+                        Kayak</li>
                 </ul>
 
 
@@ -50,9 +53,9 @@
 
 
                 <div class="pmd-card-actions col-xs-6">
-                    <a class="facebook-modal-link btn-success btn"
-                        href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/?__tn__=%2Cd%2CP-R&eid=ARB9kySoM_K-mo2UVIkjqMdzVsTRRAfYFHfSYqX1ZL_4bnwLixSzDLym9Kp71DZl4mBHLLYInYMTtouZ"
-                        target="_blank"><span class="fa fa-facebook">VISIT US</span></a>
+                    VISIT US : <a class="facebook-modal-link btn-success btn"
+                        href="https://www.facebook.com/Kayaking-Premantura-241379939600438/" target="_blank"><span
+                            class="fa fa-facebook"></span></a>
                 </div>
 
                 <div class="modal-footer">

@@ -1,4 +1,4 @@
-<!-- modal Half day excursion de -->
+<!-- modal HALBTAGSAUSFLUG -->
 <div id="services-windsurf" class="modal fade" role="dialog" aria-labelledby="myModalLabel" tabindex="-1"
     role="document">
     <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
@@ -6,20 +6,23 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title">Halbtagsausflug </h4>
+                <h4 class="modal-title">HALBTAGSAUSFLUG</h4>
             </div>
             <div class="modal-body">
-                <h5 class="services-sm-title">Über den Ausflug</h5>
-                <p class="text-muted"> <b> Halbtagsausflug </b> mit dem Geländefahrrad beginnt wahlweise um 9 Uhr oder
-                    um 13 Uhr. Die Tour muss mindestens einen Tag im Voraus gebucht werden. Ausgangs- und Rückkehrort
-                    ist unser Zentrum in Premanturanahe der Hausnummer 63 (gegenüber des Surf Bars). Die Tour führt über
-                    die Radwege des Unteren Kamenjaksund bietet die Erkundung vonSaurierspuren imDinoparksowie Badespaß
-                    an entlegenen Stränden. Der Tourleiter bestimmt den Rhythmus des Ausflugs indem er seinen Ablauf den
-                    Sicherheitsbedingungen und das Tempo den Möglichkeiten aller Teilnehmer anpasst. Es werden rund 15
-                    Km zurückgelegt
+                <h5 class="services-sm-title">Inhalt der Tour</h5>
+                <p class="text-muted"><b> Ein Ganztagsausflug</b> mit dem Kajak beginnt um 9 Uhr. Die Tour muss
+                    mindestens
+                    einen Tag im Voraus gebucht werden. Ausgangs- und Rückkehrort ist der Campingplatz Stupice in
+                    Premantura. Der Ausflug bietet auch Gelegenheiten zum Schnorcheln an wunderschönen Stränden der
+                    entlegenen Inseln oder Buchten des SchutzgebietsKamenjak. Die Dauer der Schnorchelgelegenheiten
+                    kann, der Jahreszeit und Meerestemperatur entsprechend, den Wünschen der Teilnehmer angepasst
+                    werden. Sie werden mindestens zwei unbewohnte Inseln besuchen sowie die Grotte Velika Kolumbarica
+                    und die Insel Fenoliga, auf der Spuren von Dinosauriern zu sehen sind, und dabei die marine Tier-
+                    und Pflanzenwelt des Archipels von Medulin kennenlernen. Das Mittagessen findet in der Safari Bar
+                    statt. Der Tourleiter bestimmt den Rhythmus des Ausflugs indem er seinen Ablauf den
+                    Sicherheitsbedingungen und das Tempo den Möglichkeiten aller Teilnehmer anpasst.
                     <br>
-                    <br>
-                    <b>DAUER:</b> 4h.
+                    <b>DAUER:</b> ungefähr 4h.
                     <br>
                     <b>PREIS:</b> 300,00 HRK.
                 </p>
@@ -30,11 +33,13 @@
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Tourleiter</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Geländefahrrad</li>
-                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Obst & Wasser</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
+                        Schnorchelausrüstung</li>
+                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Sicherheitsausstattung</li>
+                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
+                        Kayak</li>
                 </ul>
 
 
@@ -44,15 +49,16 @@
 
 
 
-                <p class="text-muted"><b>PREIS</b> FUR GRUPPEN 10-15 PAX <span class="badge badge-info">-10%</span> /
-                    <b>PRICE</b> FUR GRUPPEN MEHR ALS 15 PAX <span class="badge badge-info">-20%</span> </p>
-
+                <p class="text-muted"><b>GRUPPENPREIS </b> FÜR 10 BIS 15 PERSONEN - 10% <span
+                        class="badge badge-info">-10%</span> / <b>GRUPPENPREIS </b> FÜR MEHR ALS 15 PERSONEN <span
+                        class="badge badge-info">-20%</span> </p>
+                <hr>
 
 
                 <div class="pmd-card-actions col-xs-6">
-                    <a class="facebook-modal-link btn-success btn"
-                        href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/?__tn__=%2Cd%2CP-R&eid=ARB9kySoM_K-mo2UVIkjqMdzVsTRRAfYFHfSYqX1ZL_4bnwLixSzDLym9Kp71DZl4mBHLLYInYMTtouZ"
-                        target="_blank"><span class="fa fa-facebook">VISIT US</span></a>
+                    VISIT US : <a class="facebook-modal-link btn-success btn"
+                        href="https://www.facebook.com/Kayaking-Premantura-241379939600438/" target="_blank"><span
+                            class="fa fa-facebook"></span></a>
                 </div>
 
                 <div class="modal-footer">

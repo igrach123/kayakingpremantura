@@ -1,32 +1,32 @@
-<!-- modal CJLEODNEVNI -->
-<div id="services-kayaking" class="modal fade" role="dialog" aria-labelledby="myModalLabel">
+<!-- modal Kayak - Cave excursion -->
+<div id="services-bike" class="modal fade" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title text-uppercase">Full day excursion </h4>
+                <h4 class="modal-title text-uppercase">Kayak - Cave excursion </h4>
             </div>
             <div class="modal-body">
                 <h5 class="services-sm-title">About the Trip</h5>
-                <p class="text-muted"> <b>The full day excursion</b> begins at 09:00 h. Excursions by kayak must be
-                    booked at least one day in advance. The excursion begins and ends at the Arena Stupice Campsite in
-                    Premantura. It includes snorkeling in the waters surrounding the beautiful and secluded beaches of
-                    the islands and bays of the Nature Park Kamenjak. The time spent snorkeling depends on the
-                    participants’ wishes and, of course, on the sea temperature and the season. Participants visit at
-                    least two uninhabited islands, the Velika Kolumbarica cave, the island of Fenoliga with the dinosaur
-                    footprints, and learn about the marine flora and fauna of the Medulin archipelago. Lunch is
-                    organized at the Safari Bar. The pace of the excursion is decided by the guide with the aim to make
-                    this a safe and practicable experience for everyone present.
+                <p class="text-muted"> <b>The Kayak - Cave excursion</b> to the coastal caves starts at 9 am and lasts
+                    approximately five- hours. The tour must be booked at least one day in advance. The place of
+                    departure and return is the campsite of Stupice in Premantura. The excursion includes snorkelling on
+                    the beautiful beaches of secluded islands and in the caves of the Kamenjak nature park. The duration
+                    of the snorkelling may be adapted to the wishes of the participants, taking into account the season
+                    and sea temperature. You will visit at least one uninhabited island, snorkel in the caves and
+                    discover the underwater flora and fauna of the Medulin archipelago. The tour guide will set the
+                    tempo of the excursion always bearing in mind the safety conditions and the comfort limits of the
+                    group.
                     <br>
                     <br>
-                    <b>DURATION:</b> about 8h.
+                    <b>DURATION:</b> about 5h.
                     <br>
-                    <b>PRICE:</b> 450,00 HRK.
+                    <b>PRICE:</b> 350,00 HRK.
                 </p>
                 <hr>
 
-                <p class="text-muted"><b>Full day excursion includes:</b></p>
+                <p class="text-muted"><b>Kayak - Cave excursion includes:</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Guide</li>
