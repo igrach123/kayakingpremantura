@@ -34,9 +34,9 @@
     <link href="#" rel="canonical" />
     <link href="../en/index.php" rel="alternate" hreflang="en">
     <meta name="keywords"
-        content="Rent a Bike Premantura, Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, rental,rent a bike">
+        content="Kayaking Premantura, Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, rental,Kayaking">
     <meta name="description"
-        content="Rent a Bike Premantura,Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, school, rental,rent a bike">
+        content="Kayaking Premantura,Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, school, rental,Kayaking">
     <meta http-equiv="content-language" content="de,hr">
     <!--main bootstrap stylesheet-->
     <link rel="stylesheet" href="../css/bootstrap.min.css">

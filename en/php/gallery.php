@@ -2,7 +2,7 @@
 <section class="container-fluid" id="bike-cjenik">
     <div class="container">
         <div class="" id="bike-gallery">
-            <h3>GALERIJA</h3>
+            <h3>GALLERY</h3>
             <!-- galerija -->
             <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                 <div class="panel-body">

@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Rent a Bike Premantura</title>
+    <title>Kayaking Premantura</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- favicon setup -->
@@ -34,9 +34,9 @@
     <link href="http://www.windsurfing.hr/index.php" rel="canonical" />
     <link href="../en/index.php" rel="alternate" hreflang="en">
     <meta name="keywords"
-        content="Rent a Bike Premantura, Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, rental,rent a bike">
+        content="Kayaking Premantura, Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, rental,Kayaking">
     <meta name="description"
-        content="Rent a Bike Premantura,Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, school, rental,rent a bike">
+        content="Kayaking Premantura,Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, school, rental,Kayaking">
     <meta http-equiv="content-language" content="it,hr">
     <!--main bootstrap stylesheet-->
     <link rel="stylesheet" href="../css/bootstrap.min.css">

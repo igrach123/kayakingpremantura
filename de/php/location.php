@@ -1,6 +1,6 @@
 <section class="container-fluid clearfix" id="location">
     <div class="container">
-        <h2>OUR CENTERS</h2>
+        <h2>UNSERE ZENTREN</h2>
 
         <div class="row card-1 white-bg">
             <div class="col-xs-12 col-md-6  img-premantura">
@@ -10,8 +10,7 @@
             <div class="col-xs-12 col-md-6">
 
                 <h3 class="text-center"> Windsurf Centar Premantura</h3>
-                <p>Windsurfing Center Premantura Premantura was founded in 2000. The Center, which started as a
-                    windsurfing school and bicycle rental spot, has not stopped developing since its beginning.
+                <p>Das Windsurfzentrum Premantura wurde im Jahr 2000 gegründet. Unser Zentrum, das als Windsurfschule und Geländefahrradverleih anfing, hat sich kontinuierlich weiterentwickelt. Im Laufe der Jahre sind wir zu einem Zentrum gewachsen, das über mehrere Dutzend Surfbretter verfügt, sowohl für Schulstunden als auch für den Verleih.
                 </p>
                 <div class="l-iconi-wrapper clearfix">
                     <div> <span class="l-iconi text-center"><img class="img-responsive" src="../img/iconi/surf.png"
@@ -59,10 +58,7 @@
                                     Premantura</span> </a>
                         </h4>
                         <hr>
-                        <p> Bicycles can be rented both individually or in an organized excursion. We rent bicycles at
-                            two locations: in Premantura on the road to the Arena Stupice Campsite, near house number 63
-                            and opposite the Surf Bar andat the Arena Stupice Campsite. We offer several sizes and
-                            qualities of bicycles.
+                        <p> Die Geländefahrräder können einzeln gemietet oder für geführte Ausflüge gebucht werden. Der Fahrradverleih findet an zwei Standpunkten statt: in Premantura an der Zufahrt zum Campingplatz Stupice, nahe der Hausnummer 63 und gegenüber des Surf Bars, sowie im Campingplatz Stupice. Im Angebot befinden sich mehrere Fahrradtypen, unterschiedlicher Größen und Qualitätsklassen.
                         </p>
                         <hr>
                         <div class="text-left l-link">
@@ -99,9 +95,7 @@
                         <h4 class=> <a href="https://windsurfing.hr/" target="_blank"> Windsurf Centar Medulin </a>
                         </h4>
                         <hr>
-                        <p>Our Centre in Medulin is located in the Arena Medulin Campsite , which offers the closest
-                            available accommodation. Being a tourist resort Medulin offers all kinds of accommodation,
-                            from hotels to camps. </p>
+                        <p>Unser Windsurfzentrum in Medulin ist im Campingplatz Arena Medulingelegen, in dem auch Unterkunftsmöglichkeiten bereitstehen. Medulin verfügt auch über alle anderen Unterkunftsmöglichkeiten, von Campingplätzen bis zu Hotels. </p>
                         <div class="l-iconi-wrapper clearfix">
                             <div> <span class="l-iconi text-center"><img class="img-responsive"
                                         src="../img/iconi/surf.png" alt="surf-icon"> </span> </div>
