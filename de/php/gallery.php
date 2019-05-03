@@ -72,7 +72,6 @@
             </div> <!-- collapse one -->
             <!-- share this -->
             <div class="sharethis-inline-follow-buttons"></div>
-            <!-- yt  video -->
 
         </div>
 

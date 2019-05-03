@@ -42,7 +42,7 @@ class FormHandler
 		$this->mailer = new PHPMailer;
 		$this->mail_template='';
 
-		$this->mailer->Subject = "Rent a Bike Premantura poruka:";
+		$this->mailer->Subject = "Kayaking Premantura poruka:";
 
 		$host = isset($_SERVER['SERVER_NAME'])?$_SERVER['SERVER_NAME']:'localhost';
         $from_email ='forms@'.$host;

@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Rent a Bike Premantura</title>
+    <title>Kayaking Premantura</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- favicon setup -->
@@ -51,6 +51,9 @@
     <link rel="stylesheet" href="../css/owl.carousel.min.css">
     <link rel="stylesheet" href="../css/owl.theme.min.css">
     <link rel="stylesheet" href="../css/owl.transitions.min.css">
+    <script type='text/javascript'
+        src='//platform-api.sharethis.com/js/sharethis.js#property=5cc3509136d0970012b8859c&product=sop' async='async'>
+    </script>
     <!--main stylesheet-->
     <link rel="stylesheet" href="../css/style.css">
     <script src="../js/vendor/modernizr-2.8.3.min.js"></script>

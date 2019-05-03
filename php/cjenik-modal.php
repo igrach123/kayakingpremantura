@@ -8,7 +8,7 @@
                 <h3 class="modal-title text-center lead">CJENIK </h3>
             </div>
             <div class="modal-body">
-                <h4 class="text-center">IZLETI</h4>
+                <h4 class="text-center h7">IZLETI</h4>
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
                         <thead>
@@ -29,7 +29,7 @@
                         </tbody>
                     </table>
                 </div>
-                <h4 class="text-center">NAJAM KAJAKA</h4>
+                <h4 class="text-center h7">NAJAM KAJAKA</h4>
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
                         <thead>

@@ -34,9 +34,9 @@
     <link href="http://www.windsurfing.hr/index.php" rel="canonical" />
     <link href="../en/index.php" rel="alternate" hreflang="en">
     <meta name="keywords"
-        content="Kayaking Premantura, Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, rental,Kayaking">
+        content="Kayaking Premantura, Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, rental,Kayaking">
     <meta name="description"
-        content="Kayaking Premantura,Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, school, rental,Kayaking">
+        content="Kayaking Premantura,Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, school, rental,Kayaking">
     <meta http-equiv="content-language" content="it,hr">
     <!--main bootstrap stylesheet-->
     <link rel="stylesheet" href="../css/bootstrap.min.css">
@@ -51,6 +51,9 @@
     <link rel="stylesheet" href="../css/owl.carousel.min.css">
     <link rel="stylesheet" href="../css/owl.theme.min.css">
     <link rel="stylesheet" href="../css/owl.transitions.min.css">
+    <script type='text/javascript'
+        src='//platform-api.sharethis.com/js/sharethis.js#property=5cc3509136d0970012b8859c&product=sop' async='async'>
+    </script>
     <!--main stylesheet-->
     <link rel="stylesheet" href="../css/style.css">
     <script src="../js/vendor/modernizr-2.8.3.min.js"></script>
@@ -73,8 +76,6 @@
 
     <!--  CONTENT WRAPPER-->
     <div class="container-fluid" id="content-wrapper">
-
-
 
         <!-- services -->
         <?php include "php/services.php"; ?>

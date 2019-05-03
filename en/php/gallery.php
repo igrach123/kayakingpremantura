@@ -71,8 +71,8 @@
                 </div> <!-- panel body -->
             </div> <!-- collapse one -->
             <!-- share this -->
+            <!-- share this -->
             <div class="sharethis-inline-follow-buttons"></div>
-            <!-- yt  video -->
 
         </div>
 

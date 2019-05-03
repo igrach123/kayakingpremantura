@@ -8,7 +8,7 @@
                 <h3 class="modal-title text-center lead">PEISLISTE </h3>
             </div>
             <div class="modal-body">
-                <p class="h3 text-center">AUSFLÜGE</p>
+                <p class="h3 text-center h7">AUSFLÜGE</p>
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
                         <thead>
