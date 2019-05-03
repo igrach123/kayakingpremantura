@@ -73,10 +73,12 @@
         <?php include "php/services.php"; ?>
         <!-- services modals -->
         <!-- services modals -->
+        <!-- services modals -->
         <?php include "php/services-pdnevni.php"; ?>
         <?php include "php/services-cdnevni.php"; ?>
         <?php include "php/services-spilje.php"; ?>
         <?php include "php/custom-tour.php"; ?>
+
         <!-- end of services -->
         <?php include "php/location.php" ?>
         <?php include "php/gallery.php"?>

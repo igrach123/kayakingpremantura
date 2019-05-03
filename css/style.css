@@ -556,7 +556,7 @@ header .navbar-nav li a { display: inline-block; position: relative; padding-top
   header .navbar-default .navbar-nav > .active > a, header .navbar-default .navbar-nav > .active > a:hover, header .navbar-default .navbar-nav > .active > a:focus { color: #07b5d0; } }
 @media only screen and (min-width: 768px) { header .navbar-default { background-color: transparent; box-shadow: none; }
   header .navbar-default .navbar-nav li a { color: #fff; }
-  header .navbar-default.bg-trans { background-color: white; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); }
+  header .navbar-default.bg-trans { background-color: rgba(255, 255, 255, 0.9); box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); }
   header .navbar-default.bg-trans .navbar-nav li a { color: rgba(0, 0, 0, 0.54); }
   header .navbar-default.bg-trans .navbar-nav li a:hover { color: #07b5d0; } }
 header p { color: rgba(255, 255, 255, 0.84); margin-top: 0px; margin-bottom: 50px; }
