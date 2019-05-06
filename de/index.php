@@ -99,13 +99,7 @@
         <?php include "php/partner-slide.php" ?>
 
     </div> <!-- end of content wrapper -->
-
-
     <?php include "footer.php"; ?>
-
-
-
-
 
     <!--JavaScript, jquerry and plugins-->
     <script src="../js/vendor/jquery.min.js"></script>

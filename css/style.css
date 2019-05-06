@@ -476,6 +476,10 @@ body { margin: 0px 0px; padding: 0px 0px; background: #1c92d2; /* fallback for o
 
 .facebook-modal-link:hover { color: #3b5998 !important; background-color: #ffffff !important; margin-left: 0px !important; margin-top: 10px; }
 
+.instagram-modal-link { color: #ffffff !important; background-color: #bc2a8d !important; margin-left: 0px !important; margin-top: 10px; border: 1px solid #bc2a8d; }
+
+.instagram-modal-link:hover { color: #bc2a8d !important; background-color: #ffffff !important; border: 1px solid #bc2a8d; margin-left: 0px !important; margin-top: 10px; }
+
 .modal-backdrop { position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 1030; background-color: #333333; opacity: 0.8; }
 
 .border-bot-60 { height: 1px; border-bottom: 1px solid rgba(0, 0, 0, 0.3); width: 20%; margin-left: 40%; }

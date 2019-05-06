@@ -56,6 +56,9 @@
                     POSJETITE NAS : <a class="facebook-modal-link btn-success btn"
                         href="https://www.facebook.com/Kayaking-Premantura-241379939600438/" target="_blank"><span
                             class="fa fa-facebook"></span></a>
+                    <a class="instagram-modal-link  btn btn-danger"
+                        href="https://www.instagram.com/windsurfingcenterpremantura/" target="_blank">
+                        <span class="fa fa-instagram"></span></a>
                 </div>
 
                 <div class="modal-footer">
