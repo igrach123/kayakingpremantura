@@ -61,10 +61,6 @@
                         <span class="fa fa-instagram"></span></a>
                 </div>
 
-
-
-                <hr>
-
                 <div class="modal-footer">
                     <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
                 </div>
