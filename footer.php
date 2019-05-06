@@ -6,57 +6,57 @@
                     <h2>KAKO DO NAS</h2>
                     <div class="google-maps">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d862459.9398552391!2d14.082646276738716!3d44.76109412937612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47632bc69674cd8d%3A0xca0468cf2e75f6c4!2sWindsurfcentar+Premantura!5e0!3m2!1sen!2shr!4v1522863871226"
+                            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d38094.689198160864!2d13.958886755066738!3d44.79294009379744!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9544cb64a3fa26f9!2sRent+a+Bike+Centar!5e0!3m2!1sen!2shr!4v1522863383452"
                             width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="col-md-6">
-            <h2 class="text-center">Kontaktirajte nas</h2>
-            <h4 class="text-center ">Pošaljite nam upit!</h4>
 
-            <form role="form" method="post" id="reused_form">
-                <div class="form-group">
-                    <input type="text" placeholder="Ime" class="form-control" id="name" name="name" required
-                        maxlength="50">
-                </div>
-                <div class="form-group">
-                    <input type="email" class="form-control" placeholder="Email" id="email" name="email" required
-                        maxlength="50">
-                </div>
-                <div class="form-group">
 
-                    <textarea class="form-control" type="textarea" name="message" id="message"
-                        placeholder="Vaša poruka ovdje!" maxlength="6000" rows="7"></textarea>
-                </div>
-                <div class="row" style="margin-bottom:30px;">
-                    <div class="col-sm-5">
-                        <img src="captcha.php" id="captcha_image" />
-                        <br />
-                        <a id="captcha_reload" href="#">reload</a>
+            <div class="col-md-6">
+                <h2 class="text-center">Kontaktirajte nas</h2>
+                <h4 class="text-center ">Pošaljite nam upit!</h4>
+
+                <form role="form" method="post" id="reused_form">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ime" class="form-control" id="name" name="name" required
+                            maxlength="50">
                     </div>
-                    <div class="col-sm-6">
-                        <input type="text" placeholder="Unesite kod s slike!" class="form-control" required id="captcha"
-                            name="captcha">
+                    <div class="form-group">
+                        <input type="email" class="form-control" placeholder="Email" id="email" name="email" required
+                            maxlength="50">
                     </div>
+                    <div class="form-group">
+
+                        <textarea class="form-control" type="textarea" name="message" id="message"
+                            placeholder="Vaša poruka ovdje!" maxlength="6000" rows="7"></textarea>
+                    </div>
+                    <div class="row" style="margin-bottom:30px;">
+                        <div class="col-sm-5">
+                            <img src="captcha.php" id="captcha_image" />
+                            <br />
+                            <a id="captcha_reload" href="#">reload</a>
+                        </div>
+                        <div class="col-sm-6">
+                            <input type="text" placeholder="Unesite kod s slike!" class="form-control" required
+                                id="captcha" name="captcha">
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-lg btn-default" id="btnContactUs">Pošaljite</button>
+                </form>
+                <div id="success_message" style="width:100%; height:100%; display:none; ">
+                    <h3>Sent your message successfully!</h3>
                 </div>
-                <button type="submit" class="btn btn-lg btn-default" id="btnContactUs">Pošaljite</button>
-            </form>
-            <div id="success_message" style="width:100%; height:100%; display:none; ">
-                <h3>Sent your message successfully!</h3>
-            </div>
-            <div id="error_message" style="width:100%; height:100%; display:none; ">
-                <h3>Error</h3> Sorry there was an error sending your form.
+                <div id="error_message" style="width:100%; height:100%; display:none; ">
+                    <h3>Error</h3> Sorry there was an error sending your form.
+                </div>
             </div>
         </div>
-    </div>
+
     </div>
 
 
     <div class="container">
-
-
         <div class="row">
 
             <div class="col-xs-12 col-sm-8 col-sm-offset-2  col-md-offset-3 col-md-6" id="contact-container">
@@ -64,7 +64,6 @@
 
             </div>
         </div>
-
 
         <div class="row footer-top clearfix">
 
