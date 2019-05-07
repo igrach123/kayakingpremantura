@@ -5,7 +5,7 @@
                 <div class="" id="map">
                     <h2>FINDEN SIE UNS</h2>
                     <div class="google-maps">
-                    <iframe
+                        <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d862459.9398552391!2d14.082646276738716!3d44.76109412937612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47632bc69674cd8d%3A0xca0468cf2e75f6c4!2sWindsurfcentar+Premantura!5e0!3m2!1sen!2shr!4v1522863871226"
                             width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
@@ -111,7 +111,12 @@
                             target="_blank">www.arsov.gov.si</a></li>
                     <li><a href="https://www.windguru.cz/21" target="_blank">windguru.cz</a></li>
                 </ul>
-                <!--  footer weather modal-->
+                <h4 class="our-sites"> <span><i class="fa fa-caret-right"></i></span> OUR SITES</h4>
+                <ul>
+                    <li><a href="https://www.windsurfing.hr/" target="_blank"> windsurfing.hr</a></li>
+                    <li><a href="https://www.rentabikepremantura.com/" target="_blank">rentabikepremantura.com</a></li>
+
+                </ul>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content visible-xs hidden-sm  visible-md visible-lg ">
                 <h4 class=""> <span><i class="fa fa-caret-right"></i></span> UNTERKUNFT</h4>
@@ -132,6 +137,12 @@
                     <li><a href="http://www.arso.gov.si/vreme/napovedi%20in%20podatki/index.html"
                             target="_blank">www.arsov.gov.si</a></li>
                     <li><a href="https://www.windguru.cz/21" target="_blank">windguru.cz</a></li>
+
+                </ul>
+                <h4 class="our-sites"> <span><i class="fa fa-caret-right"></i></span> OUR SITES</h4>
+                <ul>
+                    <li><a href="https://www.windsurfing.hr/" target="_blank"> windsurfing.hr</a></li>
+                    <li><a href="https://www.rentabikepremantura.com/" target="_blank">rentabikepremantura.com</a></li>
 
                 </ul>
                 <!--  footer weather modal-->
