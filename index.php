@@ -33,9 +33,9 @@
     <link href="#" rel="canonical" /> <!-- dodati stranicu na kraju -->
     <link href="en/index.php" rel="alternate" hreflang="en">
     <meta name="keywords"
-        content="Kayaking Premantura, Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, rental,Kayaking">
+        content="Kayaking Premantura, Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, rental,Kayaking,Istra kayak, kayak tours, blue caves, kamenjak,nature park,kayak ocean kayak, snorkeling, islands">
     <meta name="description"
-        content="Kayaking Premantura,Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, school, rental,Kayaking">
+        content="Kayaking Premantura,Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, school, rental,Kayaking, Istra kayak, kayak tours, blue caves, kamenjak,nature park,kayak ocean kayak, snorkeling, islands">
     <meta http-equiv="content-language" content="hr,en">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -53,6 +53,16 @@
     <!--main stylesheet-->
     <link rel="stylesheet" href="css/style.css">
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116477122-8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116477122-8');
+</script>
+
 
 
 </head>

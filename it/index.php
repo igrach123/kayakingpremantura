@@ -33,10 +33,10 @@
     <base href="#">
     <link href="http://www.windsurfing.hr/index.php" rel="canonical" />
     <link href="../en/index.php" rel="alternate" hreflang="en">
-    <meta name="keywords"
-        content="Kayaking Premantura, Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, rental,Kayaking">
+   <meta name="keywords"
+        content="Kayaking Premantura, Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, rental,Kayaking,Istra kayak, kayak tours, blue caves, kamenjak,nature park,kayak ocean kayak, snorkeling, islands">
     <meta name="description"
-        content="Kayaking Premantura,Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, school, rental,Kayaking">
+        content="Kayaking Premantura,Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, school, rental,Kayaking, Istra kayak, kayak tours, blue caves, kamenjak,nature park,kayak ocean kayak, snorkeling, islands">
     <meta http-equiv="content-language" content="it,hr">
     <!--main bootstrap stylesheet-->
     <link rel="stylesheet" href="../css/bootstrap.min.css">

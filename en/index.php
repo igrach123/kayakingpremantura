@@ -34,9 +34,9 @@
     <link href="#" rel="canonical" />
     <link href="../index.php" rel="alternate" hreflang="hr">
     <meta name="keywords"
-        content="Kayaking Premantura, Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, rental,Kayaking">
+        content="Kayaking Premantura, Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, rental,Kayaking,Istra kayak, kayak tours, blue caves, kamenjak,nature park,kayak ocean kayak, snorkeling, islands">
     <meta name="description"
-        content="Kayaking Premantura,Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, school, rental,Kayaking">
+        content="Kayaking Premantura,Kayaking centar Premantura Hrvatska, Kayaking centro Premantura Croazia, Kayaking center Premantura Croatia, school, rental,Kayaking, Istra kayak, kayak tours, blue caves, kamenjak,nature park,kayak ocean kayak, snorkeling, islands">
     <meta http-equiv="content-language" content="en,hr">
     <!--main bootstrap stylesheet-->
     <link rel="stylesheet" href="../css/bootstrap.min.css">
