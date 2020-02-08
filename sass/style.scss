@@ -16,30 +16,6 @@
 @import "colors-main";
 @import "bs-touchslider";
 
-/* Preloader */
-
-/* #preloader {
-        position:fixed;
-        top:0;
-        left:0;
-        right:0;
-        bottom:0;
-        background-color:#fff; 
-        z-index:1000; 
-    } */
-
-/* #status {
-        width:200px;
-        height:200px;
-        position:absolute;
-        left:50%; 
-        top:50%; 
-        background-image:url(../img/Ellipsis-1.9s-200px.gif); 
-        background-repeat:no-repeat;
-        background-position:center;
-        margin:-100px 0 0 -100px; 
-    } */
-
 html {
   padding: 0px 0px;
   margin: 0px 0px;
@@ -838,26 +814,11 @@ header {
 //****************SERVICES SECTION*******************//
 #services {
   padding-bottom: 80px;
-  background: #00c3ff; /* fallback for old browsers */
-  background-image: linear-gradient(
-    to left bottom,
-    #845ec2,
-    #756ed1,
-    #647dde,
-    #4f8be8,
-    #3798ef,
-    #00a8ef,
-    #00b6e9,
-    #00c2df,
-    #1bcebf,
-    #73d492,
-    #bad26a,
-    #ffc75f
-  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: $bg-grey-strong; /* fallback for old browsers */
 
   .kayak-intro {
     padding-bottom: 20px;
-    color: $bg-grey-lighter;
+    color: $second;
     margin: 0 auto;
     @include md {
       width: 60%;
@@ -884,7 +845,7 @@ header {
     padding-bottom: 20px;
   }
   h2 {
-    color: $bg-grey-lighter;
+    color: $primary;
     margin-top: 0;
     padding-bottom: 20px;
   }
@@ -898,8 +859,7 @@ header {
   .price-bg {
     color: $bg-white;
   }
-  .modal-footer {
-  }
+
   .col-5px {
     padding: 5px 5px 5px 5px;
   }
@@ -1381,21 +1341,7 @@ header {
   }
   padding-top: 80px;
   padding-bottom: 80px;
-  background-image: linear-gradient(
-    to left bottom,
-    #845ec2,
-    #756ed1,
-    #647dde,
-    #4f8be8,
-    #3798ef,
-    #00a8ef,
-    #00b6e9,
-    #00c2df,
-    #1bcebf,
-    #73d492,
-    #bad26a,
-    #ffc75f
-  );
+  background: $Vital-Ocean-gradinet;
 
   @include xxs {
     .cjenik-btn {
@@ -1528,8 +1474,7 @@ header {
 }
 
 //blue imp gallery
-.botmargin {
-}
+
 @include xxs {
   .imgwrapper {
     border-radius: 3px;

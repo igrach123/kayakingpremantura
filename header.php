@@ -65,9 +65,6 @@
         <!-- Wrapper For Slides -->
         <div class="carousel-inner " role="listbox">
 
-            <!-- Third Slide -->
-
-            <!-- End of Slide -->
 
             <!-- Second Slide -->
             <div class="item active">
@@ -91,7 +88,6 @@
 
             <!-- Third Slide -->
             <div class="item">
-
                 <!-- Slide Background -->
                 <img src="img/hero-2.jpg" alt="Bootstrap Touch Slider" class="slide-image" />
                 <div class="bs-slider-overlay "></div>
