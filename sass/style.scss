@@ -42,46 +42,8 @@ body {
   width: 100%;
 }
 .white-bg {
+  background: linear-gradient(90deg, #1cb5e0 0%, #000851 100%);
   color: $bg-white;
-  background: rgba(7, 141, 141, 1);
-  background: -moz-linear-gradient(
-    top,
-    rgba(7, 141, 141, 1) 0%,
-    rgba(6, 106, 106, 1) 45%,
-    rgba(3, 42, 109, 1) 100%
-  );
-  background: -webkit-gradient(
-    left top,
-    left bottom,
-    color-stop(0%, rgba(7, 141, 141, 1)),
-    color-stop(45%, rgba(6, 106, 106, 1)),
-    color-stop(100%, rgba(3, 42, 109, 1))
-  );
-  background: -webkit-linear-gradient(
-    top,
-    rgba(7, 141, 141, 1) 0%,
-    rgba(6, 106, 106, 1) 45%,
-    rgba(3, 42, 109, 1) 100%
-  );
-  background: -o-linear-gradient(
-    top,
-    rgba(7, 141, 141, 1) 0%,
-    rgba(6, 106, 106, 1) 45%,
-    rgba(3, 42, 109, 1) 100%
-  );
-  background: -ms-linear-gradient(
-    top,
-    rgba(7, 141, 141, 1) 0%,
-    rgba(6, 106, 106, 1) 45%,
-    rgba(3, 42, 109, 1) 100%
-  );
-  background: linear-gradient(
-    to bottom,
-    rgba(7, 141, 141, 1) 0%,
-    rgba(6, 106, 106, 1) 45%,
-    rgba(3, 42, 109, 1) 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#078d8d', endColorstr='#032a6d', GradientType=0 );
 }
 .pb-10 {
   padding-bottom: 10px;
@@ -1482,7 +1444,7 @@ header {
 @include xxs {
   .imgwrapper {
     border-radius: 3px;
-    width: 22%;
+    width: 18%;
     float: left;
     position: relative;
     overflow: hidden;

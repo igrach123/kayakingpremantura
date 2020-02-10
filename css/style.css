@@ -456,7 +456,7 @@ body { margin: 0px 0px; padding: 0px 0px; background: #1c92d2; /* fallback for o
 
 .site-wrapper { width: 100%; }
 
-.white-bg { color: #ffffff; background: #078d8d; background: -moz-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -webkit-gradient(left top, left bottom, color-stop(0%, #078d8d), color-stop(45%, #066a6a), color-stop(100%, #032a6d)); background: -webkit-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -o-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -ms-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: linear-gradient(to bottom, #078d8d 0%, #066a6a 45%, #032a6d 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#078d8d', endColorstr='#032a6d', GradientType=0 ); }
+.white-bg { background: linear-gradient(90deg, #1cb5e0 0%, #000851 100%); color: #ffffff; }
 
 .pb-10 { padding-bottom: 10px; }
 
@@ -759,7 +759,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 .gallery-container { max-width: 1920px; margin: 0 auto; }
 
-@media only screen and (min-width: 320px) { .imgwrapper { border-radius: 3px; width: 22%; float: left; position: relative; overflow: hidden; transition: 0.4s ease-in-out; -webkit-transition: 0.4s ease-in-out; z-index: 400; margin: 1%; } }
+@media only screen and (min-width: 320px) { .imgwrapper { border-radius: 3px; width: 18%; float: left; position: relative; overflow: hidden; transition: 0.4s ease-in-out; -webkit-transition: 0.4s ease-in-out; z-index: 400; margin: 1%; } }
 @media only screen and (min-width: 992px) { .imgwrapper { border-radius: 3px; width: 9.7%; float: left; position: relative; overflow: hidden; transition: 0.4s ease-in-out; -webkit-transition: 0.4s ease-in-out; z-index: 400; margin: 0.1%; } }
 .imgwrapper img { transition: 0.4s ease-in-out; -webkit-transition: 0.4s ease-in-out; }
 
