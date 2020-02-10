@@ -1474,6 +1474,10 @@ header {
 }
 
 //blue imp gallery
+.gallery-container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
 
 @include xxs {
   .imgwrapper {
@@ -1491,14 +1495,14 @@ header {
 @include md {
   .imgwrapper {
     border-radius: 3px;
-    width: 15.5%;
+    width: 9.7%;
     float: left;
     position: relative;
     overflow: hidden;
     transition: 0.4s ease-in-out;
     -webkit-transition: 0.4s ease-in-out;
     z-index: 400;
-    margin: 0.5%;
+    margin: 0.1%;
   }
 }
 .imgwrapper img {
