@@ -791,7 +791,7 @@ header {
   @include xxs {
     .cjenik-btn {
       word-wrap: break-word;
-      margin-top: 25px;
+      margin-top: 10px;
       width: 100%;
       padding: 15px;
     }
@@ -800,6 +800,12 @@ header {
     .cjenik-btn {
       margin-left: 20%;
       width: 60%;
+    }
+  }
+  @include md {
+    .cjenik-btn {
+      margin-left: 30%;
+      width: 40%;
     }
   }
   .title {
@@ -921,10 +927,10 @@ header {
     display: inherit;
   }
 }
-
+//poludnevni modal
 #services-windsurf {
   h4 {
-    background-image: url(../img/izleti/poludnevni.jpg);
+    background-image: url(../img/izleti/pludnevni.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -971,7 +977,7 @@ header {
 .facebook-modal-iframe {
   display: inherit;
 }
-
+//cjedlodnevni modal
 #services-kayaking {
   h4 {
     background-image: url(../img/izleti/cjelodnevni.jpg);

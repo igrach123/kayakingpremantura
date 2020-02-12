@@ -8,31 +8,6 @@
                 <div class="panel-body">
                     <div id="bhr">
                         <div class="imgwrapper botmargin card-2">
-                            <a href="img/kayak20/kayak (1).jpg" title="kayak kayak-xcursions">
-                                <img src="img/kayak20/kayak_xs (1).jpg" data-src="img/kayak20/kayak_xs (1).jpg"
-                                    class="img img-responsive img-rounded " alt="kayak"></a>
-                        </div>
-                        <div class="imgwrapper botmargin card-2">
-                            <a href="img/kayak20/kayak (2).jpg" title="kayak kayak-xcursions">
-                                <img src="img/kayak20/kayak_xs (2).jpg" data-src="img/kayak20/kayak_xs (2).jpg"
-                                    class="img img-responsive img-rounded " alt="kayak"></a>
-                        </div>
-                        <div class="imgwrapper botmargin card-2">
-                            <a href="img/kayak20/kayak (3).jpg" title="kayak kayak-xcursions">
-                                <img src="img/kayak20/kayak_xs (3).jpg" data-src="img/kayak20/kayak_xs (3).jpg"
-                                    class="img img-responsive img-rounded " alt="kayak"></a>
-                        </div>
-                        <div class="imgwrapper botmargin card-2">
-                            <a href="img/kayak20/kayak (4).jpg" title="kayak kayak-xcursions">
-                                <img src="img/kayak20/kayak_xs (4).jpg" data-src="img/kayak20/kayak_xs (4).jpg"
-                                    class="img img-responsive img-rounded " alt="kayak"></a>
-                        </div>
-                        <div class="imgwrapper botmargin card-2">
-                            <a href="img/kayak20/kayak (5).jpg" title="kayak kayak-xcursions">
-                                <img src="img/kayak20/kayak_xs (5).jpg" data-src="img/kayak20/kayak_xs (5).jpg"
-                                    class="img img-responsive img-rounded " alt="kayak"></a>
-                        </div>
-                        <div class="imgwrapper botmargin card-2">
                             <a href="img/kayak20/kayak (6).jpg" title="kayak kayak-xcursions">
                                 <img src="img/kayak20/kayak_xs (6).jpg" data-src="img/kayak20/kayak_xs (6).jpg"
                                     class="img img-responsive img-rounded " alt="kayak"></a>
@@ -62,6 +37,32 @@
                                 <img src="img/kayak20/kayak_xs (11).jpg" data-src="img/kayak20/kayak_xs (11).jpg"
                                     class="img img-responsive img-rounded " alt="kayak"></a>
                         </div>
+                        <div class="imgwrapper botmargin card-2">
+                            <a href="img/kayak20/kayak (1).jpg" title="kayak kayak-xcursions">
+                                <img src="img/kayak20/kayak_xs (1).jpg" data-src="img/kayak20/kayak_xs (1).jpg"
+                                    class="img img-responsive img-rounded " alt="kayak"></a>
+                        </div>
+                        <div class="imgwrapper botmargin card-2">
+                            <a href="img/kayak20/kayak (39).jpg" title="kayak kayak-xcursions">
+                                <img src="img/kayak20/kayak_xs (39).jpg" data-src="img/kayak20/kayak_xs (39).jpg"
+                                    class="img img-responsive img-rounded " alt="kayak"></a>
+                        </div>
+                        <div class="imgwrapper botmargin card-2">
+                            <a href="img/kayak20/kayak (40).jpg" title="kayak kayak-xcursions">
+                                <img src="img/kayak20/kayak_xs (40).jpg" data-src="img/kayak20/kayak_xs (40).jpg"
+                                    class="img img-responsive img-rounded " alt="kayak"></a>
+                        </div>
+                        <div class="imgwrapper botmargin card-2">
+                            <a href="img/kayak20/kayak (41).jpg" title="kayak kayak-xcursions">
+                                <img src="img/kayak20/kayak_xs (41).jpg" data-src="img/kayak20/kayak_xs (41).jpg"
+                                    class="img img-responsive img-rounded " alt="kayak"></a>
+                        </div>
+                        <div class="imgwrapper botmargin card-2">
+                            <a href="img/kayak20/kayak (42).jpg" title="kayak kayak-xcursions">
+                                <img src="img/kayak20/kayak_xs (42).jpg" data-src="img/kayak20/kayak_xs (42).jpg"
+                                    class="img img-responsive img-rounded " alt="kayak"></a>
+                        </div>
+
                         <div class="imgwrapper botmargin card-2">
                             <a href="img/kayak20/kayak (12).jpg" title="kayak kayak-xcursions">
                                 <img src="img/kayak20/kayak_xs (12).jpg" data-src="img/kayak20/kayak_xs (12).jpg"
