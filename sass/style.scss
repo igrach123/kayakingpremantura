@@ -1934,3 +1934,52 @@ body.modal-open[style] {
   color: $main-blue;
   text-transform: uppercase;
 }
+//main gallery page
+#page-gallery {
+  .gallery-header {
+    background-color: $main-blue;
+    @include xxs {
+      background-image: url(../img/hero-1xs.jpg);
+    }
+    @include md {
+      background-image: url(../img/hero-1.jpg);
+    }
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 30px;
+    .breadcrumb {
+      display: inline-block;
+      margin: 0 auto;
+      padding: 8px 15px;
+      margin-bottom: 20px;
+      list-style: none;
+      background-color: inherit;
+      border-radius: 4px;
+      li {
+        a {
+          background-color: #07b5d0;
+          color: #ffffff;
+          border: 1px solid #07b5d0;
+          -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+          -webkit-transition: background 0.3s ease-in-out,
+            color 0.3s ease-in-out;
+          transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+        }
+        .a:hover {
+          background-color: inherit;
+          color: #07b5d0;
+          border: 1px solid #07b5d0;
+          -webkit-transition: background 0.5s ease-in-out,
+            color 0.5s ease-in-out;
+          transition: background 0.5s ease-in-out, color 0.5s ease-in-out;
+        }
+      }
+    }
+
+    h1 {
+    }
+  }
+}

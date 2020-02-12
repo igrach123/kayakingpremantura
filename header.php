@@ -1,4 +1,4 @@
-<header class="" id="home">
+<header class="" id="gallery">
     <nav class="navbar navbar-default" data-nav-status="toggle" role="navigation" data-spy="affix" id="myNavbar">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -25,6 +25,8 @@
                     <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#location"
                             class="scroll">LOKACIJA</a></li>
 
+                    <li class="hidden-sm"><a data-scroll data-options='{ "easing": "easeInOutQuad" }'
+                            href="#bike-cjenik" class="scroll">GALERIJA</a></li>
                     <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#footer"
                             class="scroll">KONTAKT</a></li>
                     <li id="lang-id">

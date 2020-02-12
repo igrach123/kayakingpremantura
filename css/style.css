@@ -866,4 +866,11 @@ body.modal-open[style] { padding-right: 0px !important; padding-left: 0px !impor
 
 .modal-title { color: #07b5d0; text-transform: uppercase; }
 
+#page-gallery .gallery-header { background-color: #07b5d0; background-size: cover; background-position: center; background-repeat: no-repeat; padding-bottom: 30px; }
+@media only screen and (min-width: 320px) { #page-gallery .gallery-header { background-image: url(../img/hero-1xs.jpg); } }
+@media only screen and (min-width: 992px) { #page-gallery .gallery-header { background-image: url(../img/hero-1.jpg); } }
+#page-gallery .gallery-header .breadcrumb { display: inline-block; margin: 0 auto; padding: 8px 15px; margin-bottom: 20px; list-style: none; background-color: inherit; border-radius: 4px; }
+#page-gallery .gallery-header .breadcrumb li a { background-color: #07b5d0; color: #ffffff; border: 1px solid #07b5d0; -webkit-animation-delay: 2s; animation-delay: 2s; -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out; transition: background 0.3s ease-in-out, color 0.3s ease-in-out; }
+#page-gallery .gallery-header .breadcrumb li .a:hover { background-color: inherit; color: #07b5d0; border: 1px solid #07b5d0; -webkit-transition: background 0.5s ease-in-out, color 0.5s ease-in-out; transition: background 0.5s ease-in-out, color 0.5s ease-in-out; }
+
 /*# sourceMappingURL=style.css.map */
