@@ -17,7 +17,7 @@
                 <div data-mh="my-group" class="services-content card-1">
 
                     <a href="#services-windsurf" class="t-1" data-toggle="modal" role="button"
-                        data-target="#services-windsurf"></i>
+                        data-target="#services-windsurf">
                     </a>
                     <h3 class="title">POLUDNEVNI IZLET</h3>
                     <div class="text-center"> <span class="price-bg badge">300 kn</span> </div>
@@ -44,7 +44,6 @@
                         data-target="#services-kayaking"></a>
                     <h3 class="title">CJELODNEVNI IZLET</h3>
                     <div class="text-center"> <span class="price-bg badge">450 kn</span> </div>
-
                     <div class="overlay"></div>
                     <p>Vodič</p>
                     <p>Snorkeling opremu</p>
@@ -63,14 +62,13 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-sm-12 col-lg-4 col-5px service-wrap">
                 <div data-mh="my-group" class="services-content card-1">
-
                     <a href="#services-bike" class="t-3" data-toggle="modal" role="button"
                         data-target="#services-bike"></a>
                     <h3 class="title">Izlet kajakom u špilje</h3>
                     <div class="text-center"> <span class="price-bg badge">350 kn</span> </div>
-
                     <div class="overlay"></div>
                     <p>Personaliziranog vodiča</p>
                     <p>Snorkeling opremu</p>

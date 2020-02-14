@@ -12,10 +12,14 @@
 
 
             <div class="col-sm-6 col-lg-4 col-5px service-wrap ">
-                <div class="t-1" data-mh="my-group">
-
-                    <div class="price-bg badge"> 300 kn</div>
+                <div class="services-content card-1" data-mh="my-group">
+                    <a href="#services-windsurf" class="t-1" data-toggle="modal" role="button"
+                        data-target="#services-windsurf">
+                    </a>
                     <h3 class="title">Escursione mezza giornata</h3>
+                    <div class="text-center">
+                        <div class="price-bg badge"> 300 kn</div>
+                    </div>
                     <div class="overlay"></div>
                     <p>guida</p>
                     <p>frutta & acqua</p>
@@ -29,14 +33,17 @@
                         <a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#footer"
                             class="btn btn-default riplle-effect scroll" role="button">contatto</a>
                     </div>
-
-
                 </div>
             </div>
+
             <div class="col-sm-6 col-lg-4 col-5px service-wrap">
-                <div class="t-2" data-mh="my-group">
-                    <div class="price-bg badge"> 450 kn</div>
+                <div class="services-content card-1" data-mh="my-group">
+                    <a href="#services-kayaking" class="t-2" data-toggle="modal" role="button"
+                        data-target="#services-kayaking"></a>
                     <h3 class="title">Escursione di giornata </h3>
+                    <div class="text-center">
+                        <div class="price-bg badge"> 450 kn</div>
+                    </div>
                     <div class="overlay"></div>
                     <p>guida</p>
                     <p>frutta & acqua</p>
@@ -56,9 +63,15 @@
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-5px service-wrap">
-                <div class="t-3" data-mh="my-group">
-                    <div class="price-bg badge">350 kn</div>
+                <div class="services-content card-1" data-mh="my-group">
+                    <a href="#services-bike" class="t-3" data-toggle="modal" role="button"
+                        data-target="#services-bike"></a>
                     <h3 class="title">L’escursione alle grott</h3>
+                    <div class="text-center">
+                        <div class="price-bg badge">350 kn</div>
+                    </div>
+
+
                     <div class="overlay"></div>
                     <p>guida</p>
                     <p>frutta & acqua</p>

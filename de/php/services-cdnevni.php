@@ -5,11 +5,11 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title text-uppercase">Halbtagsausflug </h4>
+                <h4 class="modal-title text-uppercase">Ganztagsausflug </h4>
             </div>
             <div class="modal-body">
                 <h5 class="services-sm-title">Inhalt der Tour</h5>
-                <p class="text-muted"> <b> Ein Halbtagsausflug</b> mit dem Kajak beginnt wahlweise um 09 Uhr oder um 13
+                <p class="text-muted"> <b> Ein Ganztagsausflug</b> mit dem Kajak beginnt wahlweise um 09 Uhr oder um 13
                     Uhr.
                     Die Tour muss mindestens einen Tag im Voraus gebucht werden.
                     Ausgangs- und Rückkehrort ist der Campingplatz Stupice in Premantura.

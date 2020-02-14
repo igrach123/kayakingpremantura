@@ -14,10 +14,14 @@
 
 
             <div class="col-sm-6 col-lg-4 col-5px service-wrap ">
-                <div class="t-1" data-mh="my-group">
-
-                    <div class="price-bg badge"> 300 kn</div>
+                <div class="services-content card-1" data-mh="my-group">
+                    <a href="#services-windsurf" class="t-1" data-toggle="modal" role="button"
+                        data-target="#services-windsurf">
+                    </a>
                     <h3 class="title">Halbtagsausflug</h3>
+                    <div class="text-center">
+                        <span class="price-bg badge"> 300 kn</span>
+                    </div>
                     <div class="overlay"></div>
                     <p>Tourleiter</p>
                     <p>Obst & Wasser</p>
@@ -37,9 +41,13 @@
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-5px service-wrap">
-                <div class="t-2" data-mh="my-group">
-                    <div class="price-bg badge"> 450 kn</div>
+                <div class="services-content card-1" data-mh="my-group">
+                    <a href="#services-kayaking" class="t-2" data-toggle="modal" role="button"
+                        data-target="#services-kayaking"></a>
                     <h3 class="title">Ganztagsausflug</h3>
+                    <div class="text-center">
+                        <span class="price-bg badge"> 450 kn</span>
+                    </div>
                     <div class="overlay"></div>
                     <p>Tourleiter</p>
                     <p>Obst & Wasser</p>
@@ -60,9 +68,15 @@
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4 col-5px service-wrap">
-                <div class="t-3" data-mh="my-group">
-                    <div class="price-bg badge">350 kn</div>
+                <div class="services-content card-1" data-mh="my-group">
+                    <a href="#services-bike" class="t-3" data-toggle="modal" role="button"
+                        data-target="#services-bike"></a>
                     <h3 class="title">Kajakausflug zu Küstenhöhlen </h3>
+                    <div class="text-center">
+                        <div class="price-bg badge">350 kn</div>
+                    </div>
+
+
                     <div class="overlay"></div>
                     <p>Tourleiter</p>
                     <p>Obst & Wasser</p>

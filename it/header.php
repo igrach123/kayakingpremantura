@@ -24,7 +24,9 @@
                     </ul>
                     <ul class=" nav navbar-nav navbar-right">
                         <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#location"
-                                class="scroll">LOCATION</a></li>
+                                class="scroll">POSIZIONE</a></li>
+                        <li class="hidden-sm"><a data-scroll data-options='{ "easing": "easeInOutQuad" }'
+                                href="#bike-cjenik" class="scroll">GALERIE</a></li>
 
                         <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#footer"
                                 class="scroll">CONTATTO</a></li>
@@ -53,6 +55,7 @@
             <ol class="carousel-indicators">
                 <li data-target="#bootstrap-touch-slider" data-slide-to="0" class="active"></li>
                 <li data-target="#bootstrap-touch-slider" data-slide-to="1"></li>
+                <li data-target="#bootstrap-touch-slider" data-slide-to="2"></li>
             </ol>
 
             <!-- Wrapper For Slides -->
@@ -100,6 +103,22 @@
                     </div>
                 </div>
                 <!-- End of Slide -->
+                <div class="item">
+                    <!-- Slide Background -->
+                    <img src="../img/hero-3.jpg" alt="Bootstrap Touch Slider" class="slide-image" />
+                    <div class="bs-slider-overlay "></div>
+                    <!-- Slide Text Layer -->
+                    <div class="slide-text slide_style_center">
+                        <h1 data-animation="animated zoomInLeft"><?php echo "$the_sitetitle"; ?></h1>
+                        <p data-animation="animated fadeInRight">Immergiti in un NUOVO MONDO</p>
+                        <a href="#services" data-scroll data-options='{ "easing": "easeInOutQuad" }'
+                            class="btn btn-primary scroll" data-animation="animated fadeInLeft">PIÙ <i
+                                class="fa fa-angle-right" aria-hidden="true"></i></a>
+                        <a href="#footer" data-scroll data-options='{ "easing": "easeInOutQuad" }'
+                            class="btn btn-default scroll" data-animation="animated fadeInRight">CONTATTO <i
+                                class="fa fa-angle-right" aria-hidden="true"></i></a>
+                    </div>
+                </div>
 
 
             </div><!-- End of Wrapper For Slides -->

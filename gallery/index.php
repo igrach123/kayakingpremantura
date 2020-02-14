@@ -65,11 +65,12 @@
     <?php include "../php/blueimp-gallery.php"; ?>
 
     <div class="gallery-header">
-        <h1>GALLERY</h1>
+        <h1>GALERIJA</h1>
         <div class="text-center">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item "><a class="btn btn-info" href="../index.php">Back to Home</a></li>
+                    <li class="breadcrumb-item "><a class="btn btn-info" href="../index.php">Povratak na naslovnu
+                            stranicu <i><span class="fa fa-arrow-right "></a></li>
 
                 </ol>
             </nav>
@@ -560,8 +561,8 @@
                 </div> <!-- collapse one -->
                 <!-- share this -->
                 <div class="text-center">
-                    <a href="../index.php" class="btn btn-default">BACK TO HOME <i><span
-                                class="fa fa-arrow-right "></span></i> </a>
+                    <a class="btn btn-info" href="../index.php">Povratak na naslovnu
+                        stranicu <i><span class="fa fa-arrow-right "></a>
                 </div>
                 <br>
 
@@ -575,9 +576,6 @@
     </section>
     <div class="clear-fix"></div>
     <!-- end of bike cjenik -->
-
-
-
 
     <!--JavaScript, jquerry and plugins-->
     <script src="../js/vendor/jquery.min.js"></script>

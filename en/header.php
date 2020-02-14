@@ -22,7 +22,10 @@
                                 class="scroll">SERVICES</a></li>
 
                     </ul>
+
                     <ul class=" nav navbar-nav navbar-right">
+                        <li class="hidden-sm"><a data-scroll data-options='{ "easing": "easeInOutQuad" }'
+                                href="#bike-cjenik" class="scroll">GALLERY</a></li>
                         <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#location"
                                 class="scroll">LOCATION</a></li>
 
@@ -61,6 +64,7 @@
             <ol class="carousel-indicators">
                 <li data-target="#bootstrap-touch-slider" data-slide-to="0" class="active"></li>
                 <li data-target="#bootstrap-touch-slider" data-slide-to="1"></li>
+                <li data-target="#bootstrap-touch-slider" data-slide-to="2"></li>
             </ol>
 
             <!-- Wrapper For Slides -->
@@ -99,6 +103,22 @@
                     <div class="slide-text slide_style_center">
                         <h1 data-animation="animated zoomInLeft"><?php echo "$the_sitetitle"; ?></h1>
                         <p data-animation="animated fadeInRight">Discover Istria</p>
+                        <a href="#services" data-scroll data-options='{ "easing": "easeInOutQuad" }'
+                            class="btn btn-primary scroll" data-animation="animated fadeInLeft">MORE <i
+                                class="fa fa-angle-right" aria-hidden="true"></i></a>
+                        <a href="#footer" data-scroll data-options='{ "easing": "easeInOutQuad" }'
+                            class="btn btn-default scroll" data-animation="animated fadeInRight">CONTACT <i
+                                class="fa fa-angle-right" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+                <div class="item">
+                    <!-- Slide Background -->
+                    <img src="../img/hero-3.jpg" alt="Bootstrap Touch Slider" class="slide-image" />
+                    <div class="bs-slider-overlay "></div>
+                    <!-- Slide Text Layer -->
+                    <div class="slide-text slide_style_center">
+                        <h1 data-animation="animated zoomInLeft"><?php echo "$the_sitetitle"; ?></h1>
+                        <p data-animation="animated fadeInRight">Dive into the NEW WORLD</p>
                         <a href="#services" data-scroll data-options='{ "easing": "easeInOutQuad" }'
                             class="btn btn-primary scroll" data-animation="animated fadeInLeft">MORE <i
                                 class="fa fa-angle-right" aria-hidden="true"></i></a>
