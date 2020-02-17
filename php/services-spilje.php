@@ -10,10 +10,14 @@
             <div class="modal-body">
                 <h5 class="services-sm-title">OPIS IZLETA</h5>
                 <p class="text-muted">
-                    Gradska tura. Početak ture Marsovo polje, prvo zaustavljanje stop Verudela, obilazak
-                    Akvarija ili kupanje, drugo zaustavljanje Valovine, sorkelling u špilji (Grotte dei Colombi),
-                    treće zaustavljanje Arena, četvrto zaustavljanje Forum, peto zaustavljanje Zlatna vrata,
-                    povratak na Marsovo polje.
+                    Izlet kajakom u špilje počinje u 9 h i traje oko 5 sati. Izlet kajakom se
+                    dogovara najmanje jedan dan unaprijed. Izlet kreće iz kampa Stupice u Premanturi i na istom mjestu i
+                    završava. Izlet uključuje snorkeling koji će se odvijati na predivnim plažama osamljenih otoka i u
+                    špiljama Kamenjaka. Snorkeling će trajati po želji samih sudionika i, naravno, ovisno o temperaturi
+                    mora i godišnjem dobu. Posjetit ćete barem jedan nenaseljeni otok i snorklati u špiljama te ćete
+                    upoznati floru i faunu podmorskog svijeta Medulinskog arhipelaga. O ritmu odvijanja izleta odlučuje
+                    vodič, prilagođavajući odvijanje izleta sigurnosnim uvjetima i tempu koji mogu pratiti svi sudionici
+                    izleta.
                 </p>
                 <p>
                     <b>TRAJANJE:</b> oko 5h.
